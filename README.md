@@ -1,6 +1,7 @@
 # Economist-Magazine
 A place to store economist magazine
 
+# 经济学人杂志
 
 ## 仓库简介
 这里保存了我下载的每期经济学人的mobi和epub版本，你可以自由下载。仅供个人学习使用，严禁商业用途！
